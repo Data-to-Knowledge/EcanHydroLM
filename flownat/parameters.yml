@@ -1,0 +1,7 @@
+input:
+  ts_server: edwprod01
+  ts_database: Hydro
+  ts_table: 'TSDataNumericDaily'
+  ts_summ_table: 'TSDataNumericDailySumm'
+  ts_dataset_table: vDatasetTypeNamesActive
+  sites_table: 'ExternalSite'
